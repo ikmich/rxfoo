@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxFoo</string>
+    <string name="loading_from_network">Loading from network&#8230;</string>
+    <string name="loading_multiple_from_network">Loading multiple from network&#8230;</string>
+    <string name="loaded_data_1">"Loaded data 1: %1s"</string>
+    <string name="loaded_data_2">"Loaded data 2: %1s"</string>
+    <string name="click">Click</string>
+</resources>
